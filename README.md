@@ -50,15 +50,6 @@ Eat the food (a red dot) to grow longer and earn points.
 
 Avoid hitting the walls or your own tail — that ends the game!
 
-📸 Preview
-Coming soon! (You can add a gameplay screenshot or GIF here.)
-
-📌 Future Improvements
-Add sound effects and background music
-
-Implement different difficulty levels
-
-Add a high-score leaderboard
 
 🙌 Credits
-Created with ❤️ by Filip Matevski
+Created by Filip Matevski
