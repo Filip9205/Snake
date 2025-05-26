@@ -6,6 +6,8 @@ Smooth controls using arrow keys
 
 Real-time score tracking
 
+Highscore tracking
+
 Increasing difficulty as the snake grows
 
 Clean and modular code structure
