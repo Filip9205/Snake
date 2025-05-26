@@ -42,6 +42,13 @@ class Snake:
             self.snake_body[seg_num].goto(x=new_x, y=new_y)
         self.head.forward(20)
 
+    def reset(self):
+        for seg in self.snake_body:
+            seg.goto(1000, 1000)
+        self.snake_body.clear()
+        self.create_snake()
+        self.head = self.snake_body[0]
+
     def grow(self):
         x = self.snake_body[-1].xcor()
         y = self.snake_body[-1].ycor()
